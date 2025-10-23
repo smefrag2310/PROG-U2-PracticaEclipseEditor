@@ -4,3 +4,4 @@ Esta función resulta útil para ubicar rápidamente las llaves de apertura y ci
 ## Save Actions
 **Format source code** hace que el código sea más legible, tabulando y dejando suficiente espacio entre funciones, mientras que **Organize imports** sirve para importar las librerías necesarias para tu código.
 ## Content Assist
+**Content Assist** te da opciones de autocompletar con poner una parte del código, dándote las opciones y por tanto reduce el tiempo que se gasta haciendo código. 
