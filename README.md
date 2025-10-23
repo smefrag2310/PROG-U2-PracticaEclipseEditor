@@ -14,3 +14,5 @@ Usando **Search References** hace lo mismo pero con un alcance mayor, buscando e
 Esto ayuda a reducir errores de escritura porque mientras hacemos código se nos puede olvidar cerrar alguna que otra llave, pero al automatizar ese proceso, hace mucho menos probable esta situación y reduce el tiempo total de trabajo, mejorando la productividad.  
 ## 7. Templates
 Las plantillas son fragmentos de código que se insertan de forma automática al escribir una palabra o literal en específico, pudiendo crear las tuyas propias además de las que trae eclipse. Para gestionarlas en eclipse debes seguir la siguiente ruta: **Window -> Preferences -> Java -> Editor -> Templates**
+## El de más utilidad  
+En mi opinión el de más utilidad es format source code, pues siempre nos andan recordando la legibilidad de código y la tabulación, cosa que esta función hace perfectamente con solo un **Control + Shift + F**
